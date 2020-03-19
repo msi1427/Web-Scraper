@@ -1,2 +1,2 @@
+# python -m scrapy <command>
 import scrapy
-print("INITIATE SCRAPING")
